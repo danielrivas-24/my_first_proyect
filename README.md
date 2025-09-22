@@ -1,2 +1,2 @@
 ## My first repository
-Markdown md bla bla bla
+Learning about Git, the first steps 
